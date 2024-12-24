@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Gravy",
+        "imageUrl": "assets/gravy.jpg",
+        "dishes": [
+            {
+                "id":1,
+                "name": "Tez Daal"
+            },
+            {
+                "id":2,
+                "name": "Fikki Daal"
+            },
+            {
+                "id":3,
+                "name": "Baingan Saalan"
+            },
+            {
+                "id":4,
+                "name": "Black Masoora"
+            },
+            {
+                "id":5,
+                "name": "Palak Paneer"
+            },
+            {
+                "id":6,
+                "name": "Daal Palak"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dry Gravy",
+        "imageUrl": "assets/dry_gravy.jpg",
+        "dishes": [
+            {
+                "id":1,
+                "name": "Methi"
+            },
+            {
+                "id":2,
+                "name": "Shepu"
+            },
+            {
+                "id":3,
+                "name": "Palak"
+            },
+            {
+                "id":4,
+                "name": "Bhendi"
+            }
+        ]
+    }
+]
