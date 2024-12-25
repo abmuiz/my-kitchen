@@ -6,7 +6,9 @@
         "dishes": [
             {
                 "id":1,
-                "name": "Tez Daal"
+                "name": "Tez Daal",
+                "recipe": "Cook 1 cup of dal with turmeric and salt till soft. Heat oil in a kadhai, sauté jeera, garlic, onion, and tomato with masalas. Add the cooked dal, simmer for a while, and garnish with coriander. Serve hot with rice or chapati.",
+                "isNonVeg": true
             },
             {
                 "id":2,
